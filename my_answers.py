@@ -113,8 +113,7 @@ class NeuralNetwork(object):
 ##########################################################
 # The training loss is below 0.09 and the validation loss is below 0.18.
 
-# Training loss: 0.076 ... Validation loss: 0.148
-iterations = 2000
+iterations = 3000
 learning_rate = 0.9
 hidden_nodes = 9
 output_nodes = 1
